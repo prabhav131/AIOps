@@ -1,0 +1,6 @@
+{
+    "ingest_interval": 300,
+    "kafka_broker_publish": "172.31.252.214:9092",
+    "topic_name_publish": "dedup",
+    "raw_data_directory": "batch_data"
+}

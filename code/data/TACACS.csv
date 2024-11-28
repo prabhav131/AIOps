@@ -1,0 +1,6 @@
+message
+Jul 29 08:06:46  172.31.210.13 nms_admin vty0  172.31.25.125 stop  task_id=2094590 timezone=2  service=shell disc-cause=3  disc-cause-ext=1022 elapsed_time=597
+Jul 29 08:05:50  172.31.90.51  rahul_k vty0  172.31.25.125 stop  task_id=0 timezone=0  service=shell disc_cause=1  disc_cause_ext=1022 bytes_in=0  bytes_out=0 paks_in=0 paks_out=0  elapsed_time=1024
+Jul 29 08:05:49  172.31.90.52  rahul_k vty0  172.31.25.125 stop  task_id=0 timezone=2  service=shell disc_cause=1  disc_cause_ext=1022 bytes_in=0  bytes_out=0 paks_in=0 paks_out=0  elapsed_time=1067
+Jul 29 08:05:48  172.31.90.52  rahul_k unknown 172.31.25.125 stop  task_id=50  timezone=2  start_time=0  service=shell priv-lvl=15 cmd=quit
+Jul 29 08:04:23  172.31.98.21  soc_admin vty1  10.255.253.18 stop  task_id=0 timezone=2  service=shell disc_cause=1  disc_cause_ext=1022 bytes_in=0  bytes_out=0 paks_in=0 paks_out=0  elapsed_time=11

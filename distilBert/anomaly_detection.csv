@@ -1,0 +1,2 @@
+DEVICE,ANOMALY EVENTS,FREQUENCY
+gpn-0008-sba-cr--m14-01,log snmp/snmp_authen_failed is suppressed 1 in last 60 seconds.,1

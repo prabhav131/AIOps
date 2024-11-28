@@ -1,0 +1,8 @@
+DEVICE,DE-DUPLICATED EVENTS,FREQUENCY
+gbn-0002-gst-cr--m14-02,failed to login through ssh 2 time,2
+gbn-0002-gst-cr--m14-02,the ssh user failed to login.,2
+gbn-0002-gst-cr--m14-02,failed to login through snmp.,2
+gbn-0002-gst-cr--m14-02,the source ip was locked because of the failure of login through snmp.,3
+gbn-0002-gst-cr--m14-02,the source ip was unlocked.,3
+gbn-0002-gst-cr--m14-02,log snmp/authenticationfailure is suppressed 1 in last 60 seconds.,1
+gbn-0002-gst-cr--m14-02,log snmp/snmp_authen_failed is suppressed 1 in last 60 seconds.,1
